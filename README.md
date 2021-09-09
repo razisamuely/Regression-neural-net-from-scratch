@@ -7,7 +7,7 @@
 The notebook contains code for generating neural-net for regression from scratch using numpy only
 
 
-Run notebook online on google colab - [Link](https://colab.research.google.com/drive/1Lihvcptf5A9GRIMMs7BP9wiq4KFPlmPh?usp=sharing) - no installations is needed.
+Run notebook online on google-colab(https://colab.research.google.com/drive/1Lihvcptf5A9GRIMMs7BP9wiq4KFPlmPh?usp=sharing) - [Link](https://colab.research.google.com/drive/1Lihvcptf5A9GRIMMs7BP9wiq4KFPlmPh?usp=sharing) - no installations is needed.
 
 the results which you need to expect for are as follows:
 
